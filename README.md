@@ -16,11 +16,14 @@ Le but de cette étude est de sécuriser cet amplificateur au niveau
   - Elévation de la température du radiateur chargé du refroidissement des transistors...
   
   - Chronologie dans l'établissement des liaisons et fonctions pour assurer une bonne stabilité de travail et lors du retour à la fonction repos.
+  
+  - Changement automatique de bandes du filtre passe-bas grace aux infos binaires de la sortie "Linear" du transceiver.
 
-Au départ de l'étude la fonction d'amplification et de filtrage des harmoniques est réalisée, opérationnelle et fiable.
+Au départ de l'étude les fonctions d'amplification et de filtrage des harmoniques sont réalisées, opérationnelles et fiables.
 
-Le but de l'opération est de faire mettre le doigt et le nez dans les problèmes évoqués et de trouver des solutions concrètes.
+Le but de l'opération est de faire mettre le doigt et le nez dans les problèmes évoqués et de trouver des solutions concrètes et facilement réalisables.
 
-Les YAKA puis YAPLUKA doivent passer de la bouche, à des réflexions concrètes et complètes puis aux mains équipées de fers à souder.
+FAIRE de la radio avec le Ham-Spirit, ne pas rester misérablement dans sa zone de confort et enfin apprendre des choses.
+
   
 F6KJU
