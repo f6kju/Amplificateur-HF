@@ -1,4 +1,15 @@
+Pour avoir les membres désirant un accès en écriture:
+
+Nom d’utilisateur et mot de passe uniquement
+
+Vous créez un mot de passe lors de la création de votre compte sur GitHub. Nous vous recommandons d’utiliser un gestionnaire de mots de passe pour générer un mot de passe aléatoire et unique. Pour plus d’informations, consultez « Création d’un mot de passe fort ».
+
+Si vous n’avez pas activé 2FA, GitHub demande une vérification supplémentaire lors de votre première connexion avec un appareil non reconnu, tel qu’un nouveau profil de navigateur, un navigateur dans lequel les cookies ont été supprimés ou un nouvel ordinateur.
+
+Après avoir indiqué votre nom d’utilisateur et votre mot de passe, vous êtes invité à fournir un code de vérification que nous vous enverrons par e-mail. Si vous avez installé l’application GitHub Mobile, vous recevrez une notification. Pour plus d’informations, consultez « GitHub Mobile ».
 # Amplificateur-HF
+
+
 Etude sur un amplificateur HF de 1,8 à 50 MHz sur la base de schémas Motorola type EB104.
 
 Utilisation de 8 transistors de récupération installés à l'origine sur des fours HF.
